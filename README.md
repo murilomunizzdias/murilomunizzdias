@@ -8,6 +8,9 @@
 - **Linguagens:** Java, Python, Html, CSS, JS(para front), React...
 
 ### 📈 Projetos em Destaque
-- **[Invest-Genius V3](https://github.com/murilomunizzdias/Simulador-de-investimentos)--[Seriou-Game](https://github.com/murilomunizzdias/Serious-Game)--
-- **[Web](https://github.com/murilomunizzdias/Desenvolvimento-Web-projeto)--[Pokemon API](https://github.com/murilomunizzdias/Pokemon-api)--
+- **[Invest-Genius V3](https://github.com/murilomunizzdias/Simulador-de-investimentos)--
+- **[Seriou-Game](https://github.com/murilomunizzdias/Serious-Game)--
+- **[Web](https://github.com/murilomunizzdias/Desenvolvimento-Web-projeto)--
+- **[Pokemon API](https://github.com/murilomunizzdias/Pokemon-api)--
+- **[SupplyChain](https://github.com/murilomunizzdias/Projeto-Supply-Chain)--Mais Completo--
 *“A transformar lógica em dados e dados em decisões.”*
