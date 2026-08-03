@@ -5,8 +5,7 @@
 - 🏦 Interessado em Back-End e Ciência de Dados.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java, Python, Html, CSS, JS(para front), React...
-
+- **Linguagens:** Java, Python, SQL...
 ### 📈 Projetos em Destaque
 - **[Invest-Genius V3](https://github.com/murilomunizzdias/Simulador-de-investimentos)--
 - **[Seriou-Game](https://github.com/murilomunizzdias/Serious-Game)--
